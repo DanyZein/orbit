@@ -1,0 +1,81 @@
+{
+  "groups": [
+    {
+      "id": "148hkj0nngtbf",
+      "name": "Roommates",
+      "color": "#5EEAD4"
+    },
+    {
+      "id": "vwur9vjmk0p2p",
+      "name": "College friends",
+      "color": "#c0c737"
+    },
+    {
+      "id": "kodtcvoabw8z3",
+      "name": "Family",
+      "color": "#52c4ff"
+    },
+    {
+      "id": "7klvsp1ar7mbp",
+      "name": "Climbing crew",
+      "color": "#F472B6"
+    },
+    {
+      "id": "k099ljxlpbslk",
+      "name": "Neighbors",
+      "color": "#ff9045"
+    },
+    {
+      "id": "jinatlguqwxb8",
+      "name": "Book club",
+      "color": "#7CD992"
+    }
+  ],
+  "activityTypes": [
+    {
+      "id": "t1",
+      "name": "coffee / quick hang",
+      "tier": "light"
+    },
+    {
+      "id": "t2",
+      "name": "eat out",
+      "tier": "light"
+    },
+    {
+      "id": "t3",
+      "name": "call",
+      "tier": "light"
+    },
+    {
+      "id": "t4",
+      "name": "nature",
+      "tier": "light"
+    },
+    {
+      "id": "t5",
+      "name": "movie night",
+      "tier": "light"
+    },
+    {
+      "id": "t6",
+      "name": "day out (activity + food)",
+      "tier": "medium"
+    },
+    {
+      "id": "t7",
+      "name": "overnight",
+      "tier": "heavy"
+    },
+    {
+      "id": "t8",
+      "name": "camping",
+      "tier": "heavy"
+    },
+    {
+      "id": "t9",
+      "name": "road trip",
+      "tier": "heavy"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[Unit]
+Description=Orbit (hangout ledger)
+Documentation=file:/opt/orbit/server/DEPLOY.md
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=orbit
+Group=orbit
+WorkingDirectory=/opt/orbit
+
+Environment=NODE_ENV=production
+Environment=PORT=3001
+Environment=HOST=127.0.0.1
+Environment=ORBIT_DATA=/var/lib/orbit
+Environment=ORBIT_DIST=/opt/orbit/dist
+
+ExecStart=/usr/bin/node /opt/orbit/server/server.mjs
+
+# data is written on every change, so a crash loop must not leave the service down
+Restart=on-failure
+RestartSec=3
+
+# it binds to loopback behind the tunnel and needs nothing outside its own directory.
+# ProtectSystem=strict makes the rest of the filesystem read-only; ReadWritePaths is the
+# only hole, and it is the data directory
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+ReadWritePaths=/var/lib/orbit
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,908 @@
+[
+  {
+    "date": "2026-06-15",
+    "groupIds": [
+      "jinatlguqwxb8",
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t5",
+    "duration": 3,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "energized",
+    "notes": "ended up staying way later than planned",
+    "id": "hb0n9ics8zynf"
+  },
+  {
+    "date": "2026-06-18",
+    "groupIds": [
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t1",
+    "duration": 3,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "drained",
+    "notes": "good to catch up properly",
+    "id": "5yuof3n2d2sqd"
+  },
+  {
+    "date": "2026-06-19",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t4",
+    "duration": 1,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "ended up staying way later than planned",
+    "id": "cr68s2nwhklrr"
+  },
+  {
+    "date": "2026-06-20",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t1",
+    "duration": 1,
+    "initiator": "me",
+    "enjoyment": 2,
+    "energy": "energized",
+    "notes": "",
+    "id": "6rkwkenayz8io"
+  },
+  {
+    "date": "2026-06-21",
+    "groupIds": [
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t6",
+    "duration": 3,
+    "initiator": "them",
+    "enjoyment": 3,
+    "energy": "neutral",
+    "notes": "first time trying that spot",
+    "id": "mo9qq2j1tmzys"
+  },
+  {
+    "date": "2026-06-23",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t6",
+    "duration": 6,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "drained",
+    "notes": "bigger group than expected",
+    "id": "1yukgmmfar1s2"
+  },
+  {
+    "date": "2026-06-25",
+    "groupIds": [
+      "jinatlguqwxb8",
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t1",
+    "duration": 3,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "drained",
+    "notes": "same place as always",
+    "id": "n00n6v4jpz6df"
+  },
+  {
+    "date": "2026-06-28",
+    "groupIds": [
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t2",
+    "duration": 1,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "energized",
+    "notes": "",
+    "id": "w4y8acjbi3j7e"
+  },
+  {
+    "date": "2026-06-29",
+    "groupIds": [
+      "148hkj0nngtbf",
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t6",
+    "duration": 6,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "needed that",
+    "id": "77l4garm9fn9r"
+  },
+  {
+    "date": "2026-07-01",
+    "groupIds": [
+      "148hkj0nngtbf",
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t5",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "energized",
+    "notes": "",
+    "id": "jjhxn9wc09smt"
+  },
+  {
+    "date": "2026-07-05",
+    "groupIds": [
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t6",
+    "duration": 7,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "energized",
+    "notes": "quiet one, just the two of us",
+    "id": "ivcyfcsxjtiee"
+  },
+  {
+    "date": "2026-07-12",
+    "groupIds": [
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t4",
+    "duration": 1,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "energized",
+    "notes": "first time trying that spot",
+    "id": "44hgg7tmvdqld"
+  },
+  {
+    "date": "2026-07-13",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t1",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "energized",
+    "notes": "",
+    "id": "r2am5yi7z9y0u"
+  },
+  {
+    "date": "2026-07-15",
+    "groupIds": [
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t1",
+    "duration": 3,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "",
+    "id": "t9bclepngbtzy"
+  },
+  {
+    "date": "2026-07-16",
+    "groupIds": [
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t6",
+    "duration": 5,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "drained",
+    "notes": "same place as always",
+    "id": "b8c1n0bk66qbk"
+  },
+  {
+    "date": "2026-07-17",
+    "groupIds": [
+      "kodtcvoabw8z3",
+      "148hkj0nngtbf"
+    ],
+    "activityTypeId": "t1",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "energized",
+    "notes": "first time trying that spot",
+    "id": "v9oggi293tjcq"
+  },
+  {
+    "date": "2026-07-18",
+    "groupIds": [
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t4",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "energized",
+    "notes": "",
+    "id": "axq3pmj1s6r4w"
+  },
+  {
+    "date": "2026-07-19",
+    "groupIds": [
+      "vwur9vjmk0p2p",
+      "jinatlguqwxb8",
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t1",
+    "duration": 1,
+    "initiator": "me",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "bigger group than expected",
+    "id": "zwp5c6jg1gs4x"
+  },
+  {
+    "date": "2026-07-19",
+    "groupIds": [
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t3",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "",
+    "id": "4a9pqza83ks0p"
+  },
+  {
+    "date": "2026-07-21",
+    "groupIds": [
+      "jinatlguqwxb8",
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t4",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "ended up staying way later than planned",
+    "id": "f4l6kqnlzmwgp"
+  },
+  {
+    "date": "2026-07-23",
+    "groupIds": [
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t9",
+    "duration": 21,
+    "initiator": "them",
+    "enjoyment": 3,
+    "energy": "drained",
+    "notes": "good to catch up properly",
+    "id": "9fhwdo8r90i9l"
+  },
+  {
+    "date": "2026-07-26",
+    "groupIds": [
+      "148hkj0nngtbf",
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t8",
+    "duration": 20,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "drained",
+    "notes": "long overdue",
+    "id": "q98h2f1gb91g1"
+  },
+  {
+    "date": "2026-07-28",
+    "groupIds": [
+      "7klvsp1ar7mbp",
+      "vwur9vjmk0p2p",
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t1",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "long overdue",
+    "id": "q5ijcjhxcw0oh"
+  },
+  {
+    "date": "2026-07-29",
+    "groupIds": [
+      "7klvsp1ar7mbp",
+      "148hkj0nngtbf",
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t3",
+    "duration": 2,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "",
+    "id": "rswpkdrs4tpuo"
+  },
+  {
+    "date": "2026-07-31",
+    "groupIds": [
+      "kodtcvoabw8z3",
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t3",
+    "duration": 3,
+    "initiator": "me",
+    "enjoyment": 5,
+    "energy": "energized",
+    "notes": "first time trying that spot",
+    "id": "hvc58w3hys0d4"
+  },
+  {
+    "date": "2026-08-01",
+    "groupIds": [
+      "148hkj0nngtbf",
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t4",
+    "duration": 1,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "neutral",
+    "notes": "",
+    "id": "7j2ifk0p2hayn"
+  },
+  {
+    "date": "2026-08-01",
+    "groupIds": [
+      "148hkj0nngtbf",
+      "7klvsp1ar7mbp",
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t3",
+    "duration": 3,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "drained",
+    "notes": "same place as always",
+    "id": "2kk9yyahqhwuj"
+  },
+  {
+    "date": "2026-08-02",
+    "groupIds": [
+      "148hkj0nngtbf"
+    ],
+    "activityTypeId": "t3",
+    "duration": 3,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "good to catch up properly",
+    "id": "deatouk54tg12"
+  },
+  {
+    "date": "2026-08-05",
+    "groupIds": [
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t6",
+    "duration": 6,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "",
+    "id": "2yz1298e5dzfx"
+  },
+  {
+    "date": "2026-08-06",
+    "groupIds": [
+      "k099ljxlpbslk",
+      "148hkj0nngtbf"
+    ],
+    "activityTypeId": "t6",
+    "duration": 7,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "energized",
+    "notes": "",
+    "id": "5jy786p72zxyo"
+  },
+  {
+    "date": "2026-08-07",
+    "groupIds": [
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t7",
+    "duration": 22,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "",
+    "id": "vwd2b3803337f"
+  },
+  {
+    "date": "2026-08-08",
+    "groupIds": [
+      "kodtcvoabw8z3",
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t3",
+    "duration": 1,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "neutral",
+    "notes": "good to catch up properly",
+    "id": "ief0r57b31cec"
+  },
+  {
+    "date": "2026-08-08",
+    "groupIds": [
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t1",
+    "duration": 2,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "",
+    "id": "b8zbdv28fgjdr"
+  },
+  {
+    "date": "2026-08-09",
+    "groupIds": [
+      "148hkj0nngtbf"
+    ],
+    "activityTypeId": "t3",
+    "duration": 4,
+    "initiator": "them",
+    "enjoyment": 3,
+    "energy": "drained",
+    "notes": "same place as always",
+    "id": "jak95a5un2aom"
+  },
+  {
+    "date": "2026-08-09",
+    "groupIds": [
+      "kodtcvoabw8z3",
+      "7klvsp1ar7mbp",
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t2",
+    "duration": 2,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "second time this month",
+    "id": "0pvl2zw1icxst"
+  },
+  {
+    "date": "2026-08-11",
+    "groupIds": [
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t2",
+    "duration": 2,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "second time this month",
+    "id": "zcw5z59oswgbb"
+  },
+  {
+    "date": "2026-08-12",
+    "groupIds": [
+      "148hkj0nngtbf",
+      "kodtcvoabw8z3",
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t7",
+    "duration": 24,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "energized",
+    "notes": "same place as always",
+    "id": "rp34aaeodimwd"
+  },
+  {
+    "date": "2026-08-13",
+    "groupIds": [
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t6",
+    "duration": 3,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "neutral",
+    "notes": "bigger group than expected",
+    "id": "s77ebjuhmnomr"
+  },
+  {
+    "date": "2026-08-16",
+    "groupIds": [
+      "jinatlguqwxb8",
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t1",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "long overdue",
+    "id": "bd97r4wjx5e1b"
+  },
+  {
+    "date": "2026-08-17",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t6",
+    "duration": 5,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "energized",
+    "notes": "",
+    "id": "ux5mp3rwfbifh"
+  },
+  {
+    "date": "2026-08-18",
+    "groupIds": [
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t6",
+    "duration": 5,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "good to catch up properly",
+    "id": "x7t037ek2w0a8"
+  },
+  {
+    "date": "2026-08-21",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t9",
+    "duration": 24,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "energized",
+    "notes": "same place as always",
+    "id": "rj2jsf485kgja"
+  },
+  {
+    "date": "2026-08-22",
+    "groupIds": [
+      "vwur9vjmk0p2p",
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t5",
+    "duration": 3,
+    "initiator": "them",
+    "enjoyment": 3,
+    "energy": "energized",
+    "notes": "same place as always",
+    "id": "jsggmsj5zb7tw"
+  },
+  {
+    "date": "2026-08-23",
+    "groupIds": [
+      "kodtcvoabw8z3",
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t6",
+    "duration": 3,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "drained",
+    "notes": "same place as always",
+    "id": "uk8m0p27jn9jh"
+  },
+  {
+    "date": "2026-08-23",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t3",
+    "duration": 4,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "energized",
+    "notes": "long overdue",
+    "id": "i1xamfgfdj8ku"
+  },
+  {
+    "date": "2026-08-27",
+    "groupIds": [
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t3",
+    "duration": 1,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "",
+    "id": "x8vmht7l7def1"
+  },
+  {
+    "date": "2026-09-04",
+    "groupIds": [
+      "vwur9vjmk0p2p",
+      "148hkj0nngtbf"
+    ],
+    "activityTypeId": "t5",
+    "duration": 2,
+    "initiator": "me",
+    "enjoyment": 5,
+    "energy": "drained",
+    "notes": "ended up staying way later than planned",
+    "id": "ugp2g3elggnsn"
+  },
+  {
+    "date": "2026-09-05",
+    "groupIds": [
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t3",
+    "duration": 1,
+    "initiator": "them",
+    "enjoyment": 2,
+    "energy": "drained",
+    "notes": "quiet one, just the two of us",
+    "id": "7earor3yw5zm0"
+  },
+  {
+    "date": "2026-09-05",
+    "groupIds": [
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t3",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "energized",
+    "notes": "",
+    "id": "oss65xlvp8qtt"
+  },
+  {
+    "date": "2026-09-06",
+    "groupIds": [
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t6",
+    "duration": 6,
+    "initiator": "them",
+    "enjoyment": 2,
+    "energy": "drained",
+    "notes": "needed that",
+    "id": "z2ih300v4cwqe"
+  },
+  {
+    "date": "2026-09-08",
+    "groupIds": [
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t2",
+    "duration": 2,
+    "initiator": "me",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "needed that",
+    "id": "fvvrvomqc1119"
+  },
+  {
+    "date": "2026-09-09",
+    "groupIds": [
+      "kodtcvoabw8z3",
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t3",
+    "duration": 3,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "energized",
+    "notes": "second time this month",
+    "id": "wb8vbi2b78w9u"
+  },
+  {
+    "date": "2026-09-10",
+    "groupIds": [
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t1",
+    "duration": 4,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "",
+    "id": "i47yddwq2cfi9"
+  },
+  {
+    "date": "2026-09-11",
+    "groupIds": [
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t1",
+    "duration": 1,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "",
+    "id": "q0izorvl79041"
+  },
+  {
+    "date": "2026-09-13",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t5",
+    "duration": 2,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "neutral",
+    "notes": "bigger group than expected",
+    "id": "qyqv06isxuwft"
+  },
+  {
+    "date": "2026-09-15",
+    "groupIds": [
+      "148hkj0nngtbf",
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t6",
+    "duration": 5,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "energized",
+    "notes": "ended up staying way later than planned",
+    "id": "dwdtmvek3juel"
+  },
+  {
+    "date": "2026-09-18",
+    "groupIds": [
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t3",
+    "duration": 4,
+    "initiator": "them",
+    "enjoyment": 3,
+    "energy": "drained",
+    "notes": "",
+    "id": "aog35lfqi0q7r"
+  },
+  {
+    "date": "2026-09-19",
+    "groupIds": [
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t6",
+    "duration": 3,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "good to catch up properly",
+    "id": "wmiycaeqskicy"
+  },
+  {
+    "date": "2026-09-20",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t6",
+    "duration": 6,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "neutral",
+    "notes": "",
+    "id": "sdassj5kkygut"
+  },
+  {
+    "date": "2026-09-20",
+    "groupIds": [
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t6",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "neutral",
+    "notes": "first time trying that spot",
+    "id": "4mmmzx7psmipn"
+  },
+  {
+    "date": "2026-09-22",
+    "groupIds": [
+      "kodtcvoabw8z3"
+    ],
+    "activityTypeId": "t5",
+    "duration": 2,
+    "initiator": "them",
+    "enjoyment": 5,
+    "energy": "neutral",
+    "notes": "same place as always",
+    "id": "djn29shosiome"
+  },
+  {
+    "date": "2026-09-25",
+    "groupIds": [
+      "kodtcvoabw8z3",
+      "vwur9vjmk0p2p"
+    ],
+    "activityTypeId": "t7",
+    "duration": 20,
+    "initiator": "me",
+    "enjoyment": 4,
+    "energy": "energized",
+    "notes": "needed that",
+    "id": "mieuht0vbxkyj"
+  },
+  {
+    "date": "2026-09-26",
+    "groupIds": [
+      "vwur9vjmk0p2p",
+      "kodtcvoabw8z3",
+      "7klvsp1ar7mbp"
+    ],
+    "activityTypeId": "t5",
+    "duration": 1,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "drained",
+    "notes": "quiet one, just the two of us",
+    "id": "j645rglatwc1l"
+  },
+  {
+    "date": "2026-09-26",
+    "groupIds": [
+      "k099ljxlpbslk",
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t6",
+    "duration": 4,
+    "initiator": "me",
+    "enjoyment": 3,
+    "energy": "neutral",
+    "notes": "",
+    "id": "x3l5gecqgu65x"
+  },
+  {
+    "date": "2026-09-27",
+    "groupIds": [
+      "kodtcvoabw8z3",
+      "148hkj0nngtbf"
+    ],
+    "activityTypeId": "t5",
+    "duration": 3,
+    "initiator": "them",
+    "enjoyment": 3,
+    "energy": "neutral",
+    "notes": "second time this month",
+    "id": "0qmr5rwx4b2yr"
+  },
+  {
+    "date": "2026-09-27",
+    "groupIds": [
+      "jinatlguqwxb8"
+    ],
+    "activityTypeId": "t5",
+    "duration": 3,
+    "initiator": "them",
+    "enjoyment": 3,
+    "energy": "neutral",
+    "notes": "same place as always",
+    "id": "ns0d7ouusddws"
+  },
+  {
+    "date": "2026-10-01",
+    "groupIds": [
+      "vwur9vjmk0p2p",
+      "k099ljxlpbslk"
+    ],
+    "activityTypeId": "t3",
+    "duration": 2,
+    "initiator": "them",
+    "enjoyment": 4,
+    "energy": "drained",
+    "notes": "bigger group than expected",
+    "id": "otvsbae3hl9fx"
+  }
+]

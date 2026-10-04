@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies and build output
+node_modules
+dist
+dist-ssr
+
+# Local runtime data. This is real personal data and must never be committed.
+# The server writes here at runtime (ORBIT_DATA, defaults to /var/lib/orbit).
+var/
+*.local
+
+# Backups, exports and scratch copies
+orbit-backups/
+*-backups/
+backups/
+*backup*.jsx
+*backup*.js
+orbit copy.*
+*.bundle
+*.bak
+
+# One-off scratch scripts, not part of the app
+src/random/
+
+# Chat exports and anything dragged in from elsewhere
+chat-export*.json
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
